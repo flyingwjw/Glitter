@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.0)
+
+add_subdirectory(hello_triangle_indexed)
+add_subdirectory(hello_triangle)
+add_subdirectory(shaders_uniform)
+add_subdirectory(shaders_interpolation)
+add_subdirectory(shaders_class)
